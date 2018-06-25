@@ -1,0 +1,50 @@
+1111	r	n	n	TRUE
+1112	r	n	n	TRUE
+15	l	n	err	FALSE
+15	r	y	err	FALSE
+17	l	y	y	TRUE
+17	r	y	y	TRUE
+18	l	y	n	FALSE
+18	r	y	n	FALSE
+19	l	y	y	TRUE
+19	r	y	y	TRUE
+20	l	err	err	TRUE
+20	r	err	err	TRUE
+21	l	y	y	TRUE
+21	r	y	n	FALSE
+22	l	y	y	TRUE
+22	r	y	y	TRUE
+23	l	n	err	FALSE
+23	r	n	err	FALSE
+24	l	err	n	FALSE
+24	r	n	y	FALSE
+25	l	err	err	TRUE
+25	r	err	err	TRUE
+26	l	n	n	TRUE
+26	r	n	n	TRUE
+27	l	n	n	TRUE
+27	r	n	n	TRUE
+28	l	n		FALSE
+28	r	n		FALSE
+30	l	n		FALSE
+30	r	n		FALSE
+31	l	n	n	TRUE
+31	r	err	n	FALSE
+32	l	err	n	FALSE
+32	r	y	y	TRUE
+33	l	y	n	FALSE
+33	r	y	y	TRUE
+34	l	n	n	TRUE
+34	r	n	err	FALSE
+35	l	n	err	FALSE
+35	r	n	err	FALSE
+36	l	n		FALSE
+36	r	n		FALSE
+37	l	n	n	TRUE
+37	r	n	n	TRUE
+38	l	n		FALSE
+38	r	n		FALSE
+39	l	y		FALSE
+39	r	n		FALSE
+40	l	y	n	FALSE
+40	r	y	y	TRUE
